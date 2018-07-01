@@ -220,8 +220,8 @@
         "url": "https://tagyoureit.github.io/InfluxDB_WDC/InfluxDB.html",
         "author": "Russ Goldin",
         "github_username": "tagyoureit",
-        "tags": ["v_1.0"],
-        "description": "Connector to pull data from InfluxDB.  Can be used with/without authentication and server-side aggregation.",
+        "tags": ["v_2.0"],
+        "description": "Connector to pull data from InfluxDB.  Can be used with/without authentication and server-side aggregation.  New in 2.0 is support for custom SQL.",
         "source_code": "https://github.com/tagyoureit/InfluxDB_WDC"
     },
     {
